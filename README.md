@@ -1,5 +1,4 @@
 # Managementul-unei-agentii-de-turism-
-Managementul unei agenții de turism 
 Acest repository conține un proiect academic realizat în cadrul cursului Managementul Proiectelor Informatice. Proiectul reprezintă planificarea și organizarea dezvoltării unei aplicații ipotetice pentru o agenție de turism, fără implementare software.
 
 🎯 Scopul proiectului  
